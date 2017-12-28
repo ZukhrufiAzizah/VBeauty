@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866428606373",
+    "firebase_url": "https://v-beauty.firebaseio.com",
+    "project_id": "v-beauty",
+    "storage_bucket": "v-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866428606373:android:0aa573949776c842",
+        "android_client_info": {
+          "package_name": "com.zukhrufi.vbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866428606373-tv3emt9a2khgtk47nf8e7o3bu9sb4oan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zukhrufi.vbeauty",
+            "certificate_hash": "190ad4d8eb250ec9940a48eacb5a611a758ca504"
+          }
+        },
+        {
+          "client_id": "866428606373-1uj7rj2t8sgpoq74m5cfesdusi874nr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDQ2rthXz6mMyk9DddfBfTBWNtP8KLDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866428606373-1uj7rj2t8sgpoq74m5cfesdusi874nr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
